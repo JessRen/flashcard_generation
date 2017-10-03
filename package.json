@@ -1,0 +1,23 @@
+{
+  "name": "flashcard_generation",
+  "version": "1.0.0",
+  "description": "In this exercise, our class devises to create an online study tool.  * In one instance, the flashcard figuratively flips from front to back with question on the frontside and confirming answer on the backside.  * In another instance, the Cloze method, more text is joined for the confirming answer.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessRen/flashcard_generation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessRen/flashcard_generation/issues"
+  },
+  "homepage": "https://github.com/JessRen/flashcard_generation#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0"
+  }
+}
