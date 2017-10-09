@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/JessRen/flashcard_generation#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
     "inquirer": "^3.3.0"
   }
 }
