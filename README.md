@@ -6,7 +6,7 @@ In this exercise, our class devises to create an online study tool.
 
 * In another instance, the Cloze method, text is rejoined for the confirming answer. The 'cloze' refers to the text field deleted from a full sentence, in order to pose it as a fill-in-the-blank question.
 
-* Try this application by (1) first cloning this repository in full, then (2) installing npm node and inquirer packages, in order to (3) run the StudyCards.js file in your Git or Git Bash.
+* Try this application by (1) first cloning this repository in full, then (2) installing npm node and inquirer packages, in order to (3) run the StudyCards.js file in your Bash or Git Bash.
 
     This looks like:
 
